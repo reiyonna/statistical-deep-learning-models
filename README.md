@@ -7,7 +7,7 @@ The course focuses on building strong intuition behind Deep Learning by combinin
 * Mathematical foundations
 * Visual explanations
 * Excel-based simulations
-* Practical model understanding
+* Practical model understanding through Code
 
 ---
 
