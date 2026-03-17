@@ -1,8 +1,8 @@
 # Statistical Deep Learning Models
 
-This repository contains teaching material for a Master's of Science course (Computational Statistics & AI) on Statistical Deep Learning Models.
-
-The course focuses on building strong intuition behind deep learning by combining:
+This repository contains teaching material for a MSc Computational Statistics & AI course on Statistical Deep Learning Models.
+It includes all the slides I used in class. These follow the arc from Probability to Sequence models.
+The course focuses on building strong intuition behind Deep Learning by combining:
 
 * Mathematical foundations
 * Visual explanations
@@ -13,16 +13,14 @@ The course focuses on building strong intuition behind deep learning by combinin
 
 ## What Makes This Different
 
-Most deep learning resources jump directly into code.
+I build deep learning models from first principles, using math and simple simulations to show what’s really going on under the hood.
+Most deep learning resources jump directly into code. I've tried to make this course different by structuring lectures where:
 
-This course takes a different approach:
-
-* Concepts are first explained **mathematically**
+* Concepts were first explained **mathematically**
 * Then visualized using **Excel simulations**
-* Finally connected to real deep learning models
+* Finally connected to real deep learning models with Python
 
-This helps students truly understand *how models work internally*, not just how to use them.
-
+If you’ve ever felt like you can run a model but not explain it, I'm glad you're here! :)
 ---
 
 ## Topics Covered
@@ -50,11 +48,9 @@ This helps students truly understand *how models work internally*, not just how 
 
 ---
 
-## 📊 Excel Playgrounds
-
-A key part of this course is learning through **Excel-based simulations**.
-
-These include:
+## Excel Playgrounds
+Before touching Python, I made students build models in Excel to prevent hiding behind abstractions:
+A key part of this course is learning through **Excel-based simulations** that include:
 
 * Step-by-step gradient descent
 * Neural network forward pass
@@ -67,7 +63,7 @@ These are designed to build intuition before moving to code.
 
 ## Teaching Context
 
-This material was used to teach MSc students in a classroom setting.
+This material was used to teach MSc students in a classroom setting. 
 
 The goal was to:
 
@@ -77,7 +73,7 @@ The goal was to:
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer!
 
 This repository is intended for educational purposes.
 Some content may be simplified for teaching clarity.
