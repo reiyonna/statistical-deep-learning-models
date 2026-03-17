@@ -19,6 +19,7 @@ Most deep learning resources jump directly into code. I've tried to make this co
 * Concepts were first explained **mathematically**
 * Then visualized using **Excel simulations**
 * Finally connected to real deep learning models with Python
+  
 If you’ve ever felt like you can run a model but not explain it, you're at the right place! :)
 
 ---
