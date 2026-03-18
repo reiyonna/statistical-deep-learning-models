@@ -1,4 +1,5 @@
 # Statistical Deep Learning Models
+**MSc Computational Statistics & Machine Learning · Christ University**
 
 This repository contains teaching material for a MSc Computational Statistics & AI course on Statistical Deep Learning Models.
 It includes all the slides I used in class. These follow the arc from Probability to Sequence models.
@@ -24,29 +25,31 @@ If you’ve ever felt like you can run a model but not explain it, you're at the
 
 ---
 
-## Topics Covered
+## Topics
 
-* Probability & Statistical Foundations
-* Neural Networks from First Principles
-* Forward & Backpropagation
-* Gradient Descent (intuitive + mathematical view)
-* Recurrent Neural Networks (RNNs)
-* LSTM & GRU
-* Sequence Modeling
-* Introduction to Transformers
-* Convolutional Neural Networks
-* Transformers
-* Autoencoders
-* Restricted Boltzman Machine
+| # | Topic |
+|---|-------|
+| 01 | Probability & Statistical Foundations |
+| 02 | Neural Networks from First Principles |
+| 03 | Forward Pass & Backpropagation |
+| 04 | Gradient Descent — Intuition & Math |
+| 05 | Recurrent Neural Networks (RNNs) |
+| 06 | LSTMs & GRUs |
+| 07 | Sequence Modeling |
+| 08 | Convolutional Neural Networks |
+| 09 | Transformers & Attention Mechanisms |
+| 10 | Autoencoders |
+| 11 | Restricted Boltzmann Machines |
 
 ---
 
 ## Repository Structure
 
-* `lectures/` → Lecture slides used for teaching
-* `excel-playgrounds/` → Interactive Excel files to simulate model behavior
-* `notebooks/` → Code implementations from scratch
-
+```
+├── lectures/            # Slide decks used in class
+├── excel-playgrounds/   # Interactive simulations — start here
+└── notebooks/           # From-scratch Python implementations
+```
 ---
 
 ## Excel Playgrounds
@@ -61,16 +64,9 @@ A key part of this course is learning through **Excel-based simulations** that i
 These are designed to build intuition before moving to code.
 
 ---
-
 ## Teaching Context
 
-This material was used to teach MSc students in a classroom setting. 
-
-The goal was to:
-
-* Simplify complex deep learning concepts
-* Build intuition before implementation
-* Encourage hands-on exploration
+Used to teach MSc students at the Christ University in a live classroom setting. Materials were designed to be self-contained: a student who missed a lecture should be able to follow the slides, open the corresponding playground, and reconstruct their understanding without needing supplementary resources.
 
 ---
 
