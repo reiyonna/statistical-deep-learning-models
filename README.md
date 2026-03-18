@@ -24,7 +24,7 @@ Most deep learning resources jump directly into code. I've tried to make this co
 If you’ve ever felt like you can run a model but not explain it, you're at the right place! :)
 
 <p align="center">
-  <img src="https://towardsdatascience.com/wp-content/uploads/2023/11/11xITS_A-wSP1W9G8CShcTA.gif" width="480"/>
+  <img src="https://towardsdatascience.com/wp-content/uploads/2025/03/image-18.gif" width="480"/>
 </p>
 
 ---
