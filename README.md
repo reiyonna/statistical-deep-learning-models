@@ -42,6 +42,8 @@ If you’ve ever felt like you can run a model but not explain it, you're at the
 | 11 | Restricted Boltzmann Machines |
 
 ---
+![RNN unfolded across time steps](assets/rnn_unfolded.png)
+![RNN hidden state recursive expansion](assets/rnn_hidden_state.png)
 
 ## Repository Structure
 
