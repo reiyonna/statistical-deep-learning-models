@@ -36,7 +36,7 @@ If you’ve ever felt like you can run a model but not explain it, you're at the
 | 01 | Probability & Statistical Foundations |
 | 02 | Neural Networks from First Principles |
 | 03 | Forward Pass & Backpropagation |
-| 04 | Gradient Descent — Intuition & Math |
+| 04 | Gradient Descent (Intuition & Math) |
 | 05 | Recurrent Neural Networks (RNNs) |
 | 06 | LSTMs & GRUs |
 | 07 | Sequence Modeling |
@@ -63,7 +63,7 @@ If you’ve ever felt like you can run a model but not explain it, you're at the
 
 ```
 ├── lectures/            # Slide decks used in class
-├── excel-playgrounds/   # Interactive simulations — start here
+├── computational-experiments/   # Interactive simulations - start here
 └── notebooks/           # From-scratch Python implementations
 ```
 ---
