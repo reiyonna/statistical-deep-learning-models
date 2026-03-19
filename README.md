@@ -62,9 +62,9 @@ If you’ve ever felt like you can run a model but not explain it, you're at the
 ## Repository Structure
 
 ```
-├── lectures/            # Slide decks used in class
+├── lectures/                    # Slide decks used in class
 ├── computational-experiments/   # Interactive simulations - start here
-└── notebooks/           # From-scratch Python implementations
+└── notebooks/                   # From-scratch Python implementations
 ```
 ---
 
